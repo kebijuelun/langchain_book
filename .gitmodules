@@ -1,0 +1,3 @@
+[submodule "11.检索增强生成/weblangchain_chatglm"]
+	path = 11.检索增强生成/weblangchain_chatglm
+	url = https://github.com/kebijuelun/weblangchain_chatglm.git

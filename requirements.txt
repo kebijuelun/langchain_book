@@ -1,0 +1,15 @@
+akshare==1.13.29
+backtrader==1.9.78.123
+GitPython==3.1.43
+ipython==8.12.3
+langchain==0.1.14
+langchain_core==0.1.40
+matplotlib==3.8.4
+numpy==1.26.4
+openai==1.16.2
+pandas==2.2.1
+pydantic==2.6.4
+scikit_learn==1.4.1.post1
+spacy==3.7.4
+tqdm==4.66.2
+faiss-cpu==1.7.4

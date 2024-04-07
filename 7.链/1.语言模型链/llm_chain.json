@@ -1,0 +1,35 @@
+{
+    "memory": null,
+    "verbose": true,
+    "tags": null,
+    "prompt": {
+        "input_variables": [
+            "question"
+        ],
+        "output_parser": null,
+        "partial_variables": {},
+        "template": "Question: {question}\n\nAnswer: Let's think step by step.",
+        "template_format": "f-string",
+        "validate_template": true,
+        "_type": "prompt"
+    },
+    "llm": {
+        "model_name": "text-davinci-003",
+        "temperature": 0.0,
+        "max_tokens": 256,
+        "top_p": 1,
+        "frequency_penalty": 0,
+        "presence_penalty": 0,
+        "n": 1,
+        "request_timeout": null,
+        "logit_bias": {},
+        "_type": "openai"
+    },
+    "output_key": "text",
+    "output_parser": {
+        "_type": "default"
+    },
+    "return_final_only": true,
+    "llm_kwargs": {},
+    "_type": "llm_chain"
+}
