@@ -5,7 +5,7 @@
 ![langchain book](./figures/langchain_book.png)
 
 欢迎来到 《LangChain 简明讲义：从 0 到 1 构建 LLM 应用程序》书籍的配套代码仓库。
-- 书籍链接：[LangChain 简明讲义](https://item.jd.com/10099611004672.html)
+- 书籍链接：[LangChain 简明讲义](https://item.jd.com/14105705.html)
 
 
 ## ✅ 书籍目录
